@@ -6,9 +6,6 @@
 ## Move
 
 - [Awesome Move](https://github.com/MystenLabs/awesome-move) - Resource list maintained by MystenLabs, we drew much inspiration from here and copied several resources here for easy access.
-
-## Books
-
 - [Move Book](https://move-language.github.io/move/) - Introductory e-book to Move by the official team
 - [The Move Book](https://move-book.com/) - E-book to learn Move by the community 
 

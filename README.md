@@ -9,4 +9,5 @@
 
 ## Books
 
-- [Move Book](https://move-language.github.io/move/) - Introductory e-book to learn the Move language ([中文](https://github.com/move-language/move/tree/main/language/documentation/book/translations/move-book-zh)).
+- [Move Book](https://move-language.github.io/move/) - Introductory e-book to Move by the official team
+- [The Move Book](https://move-book.com/) - E-book to learn Move by the community 

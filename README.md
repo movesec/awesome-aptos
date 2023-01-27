@@ -11,3 +11,4 @@
 
 ## Reference Smart Contracts
 - [Aubrium Uniswap V2 implementation](https://github.com/pentagonxyz/xyk-amm-move/blob/main/aptos/sources/xyk_amm.move) - Uniswap V2 implemented in Move, great to understand Aptos if you come from ETH and know the solidity Uniswap V2 implementation
+- [Pancakeswap MasterChef](https://github.com/pancakeswap/pancake-contracts-move/blob/main/pancake-masterchef/sources/masterchef.move) - A reference MasterChef implementation (slightly bloated)
